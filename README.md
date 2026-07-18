@@ -1,6 +1,6 @@
 # Basic Network Sniffer
 
-Basic Network Sniffer is a Python 3.11+ mini project built with Scapy to capture live network packets, analyze them in real time, and export results to CSV and PCAP files. It is designed as a clean cybersecurity lab project with a modular codebase and terminal-friendly output.
+Basic Network Sniffer is a Python 3.11+ project built with Scapy to capture live network packets, analyze them in real time, and export results to CSV and PCAP files. It is designed as a clean cybersecurity lab project with a modular codebase and terminal-friendly output.
 
 ## Project Description
 
