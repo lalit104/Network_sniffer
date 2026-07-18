@@ -1,0 +1,38 @@
+2026-07-18 12:45:29,986 - INFO - Starting Basic Network Sniffer
+2026-07-18 12:45:47,626 - INFO - Starting Basic Network Sniffer
+2026-07-18 12:45:47,626 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 12:47:49,679 - INFO - Starting Basic Network Sniffer
+2026-07-18 12:59:10,201 - INFO - Starting Basic Network Sniffer
+2026-07-18 12:59:10,201 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 13:00:22,035 - INFO - Starting Basic Network Sniffer
+2026-07-18 13:01:19,359 - INFO - Starting Basic Network Sniffer
+2026-07-18 13:01:19,359 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 13:03:21,259 - INFO - Starting Basic Network Sniffer
+2026-07-18 13:19:53,079 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:39:41,943 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:41:13,816 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:42:12,207 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:42:12,207 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 14:42:17,731 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:42:17,732 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 14:42:23,380 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:48:44,526 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:48:44,526 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 14:49:24,524 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:49:24,524 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 14:49:55,903 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:49:55,903 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 14:50:13,773 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:55:07,324 - INFO - Starting Basic Network Sniffer
+2026-07-18 14:57:20,921 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:00:42,216 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:00:42,216 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 15:00:58,306 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:03:57,661 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:05:11,351 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:05:11,351 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 15:07:18,842 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:07:18,842 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
+2026-07-18 15:07:56,073 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:08:25,481 - INFO - Starting Basic Network Sniffer
+2026-07-18 15:08:25,481 - ERROR - Packet capture requires elevated privileges on this system. Run the sniffer with sudo/admin rights or choose an environment that allows raw sockets. ([Errno 1] Operation not permitted)
